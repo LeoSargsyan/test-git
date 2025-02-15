@@ -1,5 +1,6 @@
 import axios from "axios";
 
+
 const getPosts = async () => {
         try{
                 const response = await axios.get("https://jsonplaceholder.typicode.com/posts");
@@ -11,3 +12,6 @@ const getPosts = async () => {
 
 getPosts();
 console.log(1)
+console.log("bbb2")
+
+
