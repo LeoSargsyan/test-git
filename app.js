@@ -10,4 +10,4 @@ const getPosts = async () => {
 };
 
 getPosts();
-console.log(222)
+console.log(1)
