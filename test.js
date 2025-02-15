@@ -1,11 +1,3 @@
-console.log("")
+console.log("Davit")
 
-
-
-
-
-console.log("")
-
-console.log("nnnn")
-console.log("mmmm")
 
