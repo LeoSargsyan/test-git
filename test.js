@@ -10,9 +10,7 @@ console.log("hi")
 console.log("by")
 import express from "express";
 const app = express();
-
-
-
 console.log("aaa")
+console.log("all ok")
 
 
