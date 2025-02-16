@@ -1,18 +1,14 @@
-<<<<<<< HEAD
-console.log("")
-
-
-
-
 
 console.log("")
-
+console.log("")
 console.log("nnnn")
 console.log("mmmm")
-
-=======
-console.log(aaaa)
+console.log("aa")
 console.log("hello")
 console.log("hi")
 console.log("by")
->>>>>>> develop
+import express from "express";
+const app = express();
+
+
+
