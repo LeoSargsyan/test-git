@@ -15,10 +15,10 @@ console.log(1)
 console.log("bbb45")
 
 
-console.log("bbbbbb")
+console.log("badjkasjdajs")
 console.log("aaaa2")
-console.log("aaaaaaa")
-console.log("tttadsads")
+console.log("adjkajskdjas")
+console.log("ttasjdkasjidsa")
 console.log("aadsa")
-console.log("terhuhrf")
+console.log("ashuashjdas")
 
