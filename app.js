@@ -15,7 +15,7 @@ console.log(1)
 console.log("bbb45")
 
 
-console.log("ttt")
+console.log("bbbbbb")
 console.log("aaaa2")
-console.log("bbb2")
+console.log("aaaaaaa")
 
