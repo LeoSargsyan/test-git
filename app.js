@@ -15,3 +15,5 @@ console.log(1)
 console.log("bbb2")
 
 console.log("hiiii")
+console.log("Leo")
+console.log("Davit")
