@@ -14,4 +14,4 @@ getPosts();
 console.log(1)
 console.log("bbb2")
 
-
+console.log("hiiii")
